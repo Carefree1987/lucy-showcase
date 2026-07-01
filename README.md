@@ -126,15 +126,8 @@ lucy-showcase/
 │   ├── security.*.md        # Security model & practices
 │   ├── faq_recruiters.*.md  # FAQ for technical recruiters
 │   ├── one_pager.*.md       # Executive summary
-│   └── quickstart.md        # Getting started guide
 ├── examples/                # Sample configurations & proofs
-│   ├── proof_pack_synthetic/  # Synthetic evidence packs
-│   └── config_examples/       # Sanitized configs
-├── scripts/                 # Automation scripts
-│   ├── generate_synthetic_proof_pack.py
-│   └── verify_synthetic_pack.py
-├── LICENSE                  # MIT License
-├── SECURITY.md              # Security policy
+│   └── config_examples/     # Sanitized configs
 └── README.md                # This file
 ```
 
@@ -147,7 +140,7 @@ lucy-showcase/
 - **GDPR Compliant**: Privacy-by-design architecture
 - **Audit Trail**: Cryptographic proof of deployments
 
-See [SECURITY.md](SECURITY.md) for details.
+See [docs/security.en.md](docs/security.en.md) for details.
 
 ---
 
@@ -160,7 +153,6 @@ See [SECURITY.md](SECURITY.md) for details.
 | Security | [security.en.md](docs/security.en.md) | [security.de.md](docs/security.de.md) |
 | Recruiter FAQ | [faq_recruiters.en.md](docs/faq_recruiters.en.md) | [faq_recruiters.de.md](docs/faq_recruiters.de.md) |
 | One Pager | [one_pager.en.md](docs/one_pager.en.md) | [one_pager.de.md](docs/one_pager.de.md) |
-| Quick Start | [quickstart.md](docs/quickstart.md) | [quickstart.md](docs/quickstart.md) |
 
 ---
 
@@ -174,7 +166,7 @@ See [SECURITY.md](SECURITY.md) for details.
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) for details.
+All rights reserved. This is a showcase repository — the material may be viewed for evaluation purposes; the underlying system is private IP.
 
 ---
 
